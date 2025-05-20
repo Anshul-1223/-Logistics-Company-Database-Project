@@ -5,13 +5,13 @@ A relational database project designed for a logistics company, showcasing SQL s
 
 This project simulates the backend operations of a logistics company, focusing on:
 
-Managing customer, shipment, employee, and payment records
+Managing customer, shipment, employee, and payment records.
 
-Tracking delivery statuses
+Tracking delivery statuses.
 
-Analyzing operational performance via SQL queries
+Analyzing operational performance via SQL queries.
 
-Supporting business decisions with data-driven insights
+Supporting business decisions with data-driven insights.
 
 💻 Technologies Used
 
